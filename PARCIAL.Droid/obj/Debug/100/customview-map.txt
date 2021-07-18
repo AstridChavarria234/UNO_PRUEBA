@@ -1,0 +1,13 @@
+attr;C:\Projects\PARCIAL\PARCIAL.Droid\obj\Debug\100\lp\4\jl\res\values\attrs.xml
+declare-styleable;C:\Projects\PARCIAL\PARCIAL.Droid\obj\Debug\100\lp\4\jl\res\values\attrs.xml
+item;C:\Projects\PARCIAL\PARCIAL.Droid\obj\Debug\100\lp\4\jl\res\values\styles.xml
+item;obj\Debug\100\res\values\styles.xml
+resources;C:\Projects\PARCIAL\PARCIAL.Droid\obj\Debug\100\lp\4\jl\res\values\attrs.xml
+resources;C:\Projects\PARCIAL\PARCIAL.Droid\obj\Debug\100\lp\4\jl\res\values\styles.xml
+resources;obj\Debug\100\res\values\resources_resw-strings.xml
+resources;obj\Debug\100\res\values\strings.xml
+resources;obj\Debug\100\res\values\styles.xml
+string;obj\Debug\100\res\values\resources_resw-strings.xml
+string;obj\Debug\100\res\values\strings.xml
+style;C:\Projects\PARCIAL\PARCIAL.Droid\obj\Debug\100\lp\4\jl\res\values\styles.xml
+style;obj\Debug\100\res\values\styles.xml

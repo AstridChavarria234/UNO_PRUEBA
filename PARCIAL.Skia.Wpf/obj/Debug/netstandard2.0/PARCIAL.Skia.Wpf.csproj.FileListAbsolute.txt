@@ -1,0 +1,4 @@
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf\obj\Debug\netstandard2.0\PARCIAL.Skia.Wpf.csproj.AssemblyReference.cache
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf\obj\Debug\netstandard2.0\PARCIAL.Skia.Wpf.AssemblyInfoInputs.cache
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf\obj\Debug\netstandard2.0\PARCIAL.Skia.Wpf.AssemblyInfo.cs
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf\obj\Debug\netstandard2.0\PARCIAL.Skia.Wpf.csproj.CoreCompileInputs.cache

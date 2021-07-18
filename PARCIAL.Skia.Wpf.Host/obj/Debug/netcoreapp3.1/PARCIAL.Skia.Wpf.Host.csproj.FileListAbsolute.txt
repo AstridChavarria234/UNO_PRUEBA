@@ -1,0 +1,6 @@
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\PARCIAL.Skia.Wpf.Host.csproj.AssemblyReference.cache
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\PARCIAL.Skia.Wpf.Host_Content.g.cs
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\PARCIAL.Skia.Wpf.Host_MarkupCompile.cache
+C:\Projects\PARCIAL\PARCIAL.Skia.Wpf.Host\obj\Debug\netcoreapp3.1\PARCIAL.Skia.Wpf.Host_MarkupCompile.lref

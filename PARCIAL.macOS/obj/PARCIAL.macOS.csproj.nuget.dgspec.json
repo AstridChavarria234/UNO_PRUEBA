@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Projects\\PARCIAL\\PARCIAL.macOS\\PARCIAL.macOS.csproj": {}
+  },
+  "projects": {
+    "C:\\Projects\\PARCIAL\\PARCIAL.macOS\\PARCIAL.macOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Projects\\PARCIAL\\PARCIAL.macOS\\PARCIAL.macOS.csproj",
+        "projectName": "PARCIAL.macOS",
+        "projectPath": "C:\\Projects\\PARCIAL\\PARCIAL.macOS\\PARCIAL.macOS.csproj",
+        "packagesPath": "C:\\Users\\astrid.chavarria\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\PARCIAL\\PARCIAL.macOS\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\astrid.chavarria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinmac20"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinmac20": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinmac20": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[3.8.13, )"
+            },
+            "Uno.UI.RemoteControl": {
+              "target": "Package",
+              "version": "[3.8.13, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
